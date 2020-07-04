@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development 
 ### Start API server
-* `cd backend`
+* `cd server`
 * `npm i`
 * `node server.js`
 
